@@ -3,7 +3,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # Загрузка ресурсов из файла
-def load_resources(filename='resources.json')::  # или 'resources.json', если у тебя так называется
+def load_resources(filename='resources.json'):  # или 'resources.json', если у тебя так называется
     with open(filename, encoding='utf-8') as f:
         return json.load(f)
 
@@ -66,4 +66,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
