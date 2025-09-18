@@ -58,7 +58,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         for res in matches
     ]
     reply_markup = InlineKeyboardMarkup(keyboard)
-    await update.message.reply_text("Нашёл такие ресурсы:", reply_markup=reply_markup, reply_markup=REPLY_KB)
+    await update.message.reply_text("Нашёл такие ресурсы:", reply_markup=reply_markup)
 
 def main():
     app = Application.builder().token("8473436388:AAHzgKeLC7qatCaHbdNuVSeLH6UJjrhjFS0").build()
@@ -70,3 +70,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
