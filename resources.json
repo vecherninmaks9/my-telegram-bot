@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Моя почта",
+    "url": "https://e.mail.ru/inbox/",
+    "keywords": ["Почта", "моя почта", "майл"]
+  },
+  {
+    "name": "Чат ГПТ",
+    "url": "https://qwen.nsd.naumen.ru/c/c5d1bf92-6bb9-4731-ba09-ac77bc9669b0",
+    "keywords": ["ГПТ", "чат гпт", "аи", "ии", "gpt"]
+  },
+  {
+    "name": "Корпоративный портал",
+    "url": "https://start.nau.im/pages/viewpage.action?pageId=8618088",
+    "keywords": ["Корпоративный", "портал", "корпоративный портал", "корп портал"]
+  },
+  {
+    "name": "Support",
+    "url": "https://support.naumen.ru/sd/operator/#",
+    "keywords": ["Support", "сапорт", "саппорт", "мои заявки", "заявки"]
+  },
+  {
+    "name": "NauCare",
+    "url": "https://naucare.naumen.ru/sd/operator/",
+    "keywords": ["Нау кея", "наукеа", "nauCare", "NauCare", "науке", "наукея"]
+  },
+  {
+    "name": "NauPP",
+    "url": "https://naupp.naumen.ru/sd/operator/#uuid:software$171488521",
+    "keywords": ["NauPP", "наупп", "науп", "нау пп", "naupp", "аски"]
+  },
+  {
+    "name": "Passwork",
+    "url": "https://passwork.svc.itsm365.com/enter#/login",
+    "keywords": ["Пассворк", "пасворк", "pass", "passwork", "пароли"]
+  },
+  {
+    "name": "Документация",
+    "url": "https://www.naumen.ru/docs/sd/Content/import/impotr_sinch_all.htm?tocpath=Настройка%20NSD%7CИмпорт%20и%20синхронизация%7C_____1",
+    "keywords": ["Дока", "документация", "мануал", "наумен дока"]
+  },
+  {
+    "name": "Внутренняя дока",
+    "url": "http://nsddoc.naumen.ru/Content/import/all_config_file.htm",
+    "keywords": ["Дока", "документация", "мануал", "наумен дока", "внутренняя дока", "внутренняя документация", "внутренняя", "наша дока"]
+  },
+  {
+    "name": "HR2",
+    "url": "https://hr2.naumen.ru/",
+    "keywords": ["Hr", "эйчар", "хр", "hr2"]
+  },
+  {
+    "name": "Neo fus",
+    "url": "https://fus.naumen.ru/user/home",
+    "keywords": ["Зарплатный портал", "фус", "нео фус", "нау фус", "науфус", "неофус", "зп", "зарплата", "fus", "neofus"]
+  },
+  {
+    "name": "Service Naumen",
+    "url": "https://service.naumen.ru/sd/operator/",
+    "keywords": ["Нау сервис", "сервис", "naumen service", "service"]
+  },
+  {
+    "name": "Бронь переговорок",
+    "url": "https://rooms.nau.im/space/offices-map",
+    "keywords": ["Переговорка", "переговорки", "скайп рум", "бронь"]
+  },
+  {
+    "name": "Постановки",
+    "url": "https://projects.naumen.ru/FrontPage",
+    "keywords": ["Постановки", "постановка", "внутренняя дока", "внутренняя", "дока", "докумеентация"]
+  },
+  {
+    "name": "smrm",
+    "url": "https://smrm.nau.im/apps/files/files?dir=/Клиенты_Naumen&fileid=224336",
+    "keywords": ["Smrm", "документация по клиентам", "дока клиенты", "дока по клиентам"]
+  },
+  {
+    "name": "Дежурство группы",
+    "url": "https://docs.google.com/spreadsheets/d/1EZvLBpbDq4baDCLagnTom1rgHV6JZQ219Qhs3ALEHS4/edit#gid=0",
+    "keywords": ["Дежурю", "дежурства", "дежурство"]
+  },
+  {
+    "name": "NauReview",
+    "url": "https://review.nau.im/sd/operator/",
+    "keywords": ["Ревью", "пиар", "review", "нау ревью", "PR"]
+  },
+  {
+    "name": "HTML редактор",
+    "url": "https://html5css.ru/edithtm/",
+    "keywords": ["HTML-редактор", "редактор штмл", "штмл", "html"]
+  },
+  {
+    "name": "Документация SD PRO",
+    "url": "https://www.naumen.ru/docs/sd/nsdpro/Content/sd_role/recipient_coordinator.htm",
+    "keywords": ["SD pro", "sd pro", "сд про", "дока сд про", "документация sd pro"]
+  },
+  {
+    "name": "NauBonus",
+    "url": "https://bonus.naumen.ru/",
+    "keywords": ["Наубонусы", "нау бонусы", "бонусы", "бонусы наумен"]
+  },
+  {
+    "name": "Настройка почты",
+    "url": "https://projects.naumen.ru/ServiceDesk/Releases/4.0/Test40/MailTest40",
+    "keywords": ["Тестирование почты", "почта", "настройка почты"]
+  },
+  {
+    "name": "Создание почты",
+    "url": "https://ci40.naumen.ru/jenkins/view/4.0-Dev/job/manage_mail_accounts/",
+    "keywords": ["Дженкинс", "почты", "пароли почты", "пароли от почт", "почта", "почтовые ящики"]
+  },
+  {
+    "name": "cloud",
+    "url": "https://cloud.naumen.ru/",
+    "keywords": ["Клауд", "хранилище", "клауд наумен", "cloud"]
+  }
+]
