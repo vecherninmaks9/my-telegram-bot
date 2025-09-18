@@ -1,6 +1,6 @@
 import json
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters, CallbackContext
 
 # === Загрузка ресурсов ===
 def load_resources(filename='resources.json'):
@@ -43,9 +43,10 @@ def main():
     updater = Updater("8473436388:AAHzgKeLC7qatCaHbdNuVSeLH6UJjrhjFS0", use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", start))
-    dp.add_handler(MessageHandler(Filters.text & ~Filters.command, handle_message))
+    dp.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, handle_message))
     updater.start_polling()
     updater.idle()
 
 if __name__ == '__main__':
+
     main()
